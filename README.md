@@ -21,3 +21,21 @@ Review Trello for outstanding issues and work with other devs to fix a bug:
     *With a big hint from a senior dev, we solve the issue and then refactor to minimise the code. 
 
 Day 2
+
+Day 3
+
+Day 4
+
+Day 5
+
+Week 4
+
+Day 1 
+
+Day 2
+
+Day 3
+
+Day 4
+
+Day 5
