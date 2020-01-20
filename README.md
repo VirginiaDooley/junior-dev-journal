@@ -7,7 +7,7 @@ The past two weeks, I've been getting set up in my new role as a junior develope
 including getting access to online systems, meeting colleagues in various departments 
 to better understand the business model and took part in a user feedback session which 
 helped to understand the user's needs. I've been reviewing the code base for the main product 
-that is in development - a tool to help residents make payments and book repairs. I've also 
+that is in development - a tool to help users make payments and book home repairs. I've also 
 tried to document work flow to help refine the onboarding process for future devs on my team. 
 
 Week 3
