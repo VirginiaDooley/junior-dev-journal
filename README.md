@@ -11,6 +11,7 @@ that is in development - a tool to help residents make payments and book repairs
 tried to document work flow to help refine the onboarding process for future devs on my team. 
 
 Week 3
+
 Day 1
 Daily standup call: We review progress, identify blockers, and make plans for the next sprint
 Identify remaining onboarding items
@@ -18,3 +19,5 @@ Review Trello for outstanding issues and work with other devs to fix a bug:
     *The codebase is massive and still largely unfamiliar to me, so we use the console to identify 
     the objects and arrays and related data that we are working with. 
     *With a big hint from a senior dev, we solve the issue and then refactor to minimise the code. 
+
+Day 2
