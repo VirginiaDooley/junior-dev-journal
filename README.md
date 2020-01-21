@@ -1,7 +1,8 @@
 ##Junior Dev Journal##
-The purpose of this journal is to share my first days as a developer on a team after 
-completing a coding bootcamp. Previously, I was a freelancer working on smaller scale 
-projects mostly on my own. 
+
+The purpose of this journal is to share my first days/weeks as a developer on a team after 
+completing a coding bootcamp. I hope that this journal will help others that are currently on 
+or considering a similar path understand what lies ahead. Previously, I was a freelancer working on smaller scale projects mostly on my own. I also want to use this journal to track my professional growth. 
 
 The past two weeks, I've been getting set up in my new role as a junior developer 
 including getting access to online systems, meeting colleagues in various departments 
@@ -12,30 +13,39 @@ tried to document work flow to help refine the onboarding process for future dev
 
 Week 3
 
-Day 1
-Daily standup call: We review progress, identify blockers, and make plans for the next sprint
-Identify remaining onboarding items
-Review Trello for outstanding issues and work with other devs to fix a bug: 
-    *The codebase is massive and still largely unfamiliar to me, so we use the console to identify 
-    the objects and arrays and related data that we are working with. 
-    *With a big hint from a senior dev, we solve the issue and then refactor to minimise the code. 
+    Day 1
+        Daily standup call: We review progress, identify blockers, and make plans for the next sprint
+        Identify remaining onboarding items
+        Review Trello for outstanding issues and work with other devs to fix a bug: 
+            *The codebase is massive and still largely unfamiliar to me, so we use the console to identify 
+            the objects and arrays and related data that we are working with. 
+            *With a big hint from a senior dev, we solve the issue and then refactor to minimise the code. 
+        Research and practice version control with git rebasing
 
-Day 2
+        Resources: 
+            https://medium.com/@grazibonizi/the-best-branching-model-to-work-with-git-4008a8098e6a
+            https://github.com/thoughtbot/guides
 
-Day 3
+    Day 2
 
-Day 4
+        Review the data model diagram
+        preplanning for next sprint
+        review design guide for clean code
 
-Day 5
+    Day 3
+
+    Day 4
+
+    Day 5
 
 Week 4
 
-Day 1 
+    Day 1 
 
-Day 2
+    Day 2
 
-Day 3
+    Day 3
 
-Day 4
+    Day 4
 
-Day 5
+    Day 5
