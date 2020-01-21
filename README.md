@@ -1,4 +1,4 @@
-# Junior Dev Journal # :notebook:
+# Junior Dev Journal :notebook: 
 
 _The purpose of this journal is to share my first days/weeks as a developer on a team after 
 completing a coding bootcamp. I hope that this journal will help others that are currently on 
