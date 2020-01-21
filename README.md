@@ -26,7 +26,7 @@ tried to document work flow to help refine the onboarding process for future dev
             * [Thoughbot Guides](https://github.com/thoughtbot/guides)
             * [Don't mess with master: Working with branches](https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/)
 
-   * Day 2
+   * Day 2 (draft; will update at the end of the day)
 
         * Review the data model diagram
         * Preplanning for next sprint
