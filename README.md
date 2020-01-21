@@ -33,6 +33,8 @@ tried to document work flow to help refine the onboarding process for future dev
         * Review the data model diagram: we walked through the flow of data with visual aids and identified changes that need to made in the architecture. 
         * Preplanning for next sprint: From tomorrow, a new two week sprint begins. :party: 
         * Reviewed design guide for clean code
+        * Walked through objects and properties in the User model in prep for the next sprint
+        * :relaxed: Reflections: It was a day full of meetings, but all super helpful in providing context on the product, where we've been and where we are headed. 
 
     * Day 3
 
