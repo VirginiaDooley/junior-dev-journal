@@ -25,6 +25,7 @@ tried to document work flow to help refine the onboarding process for future dev
             * [Working with Git](https://medium.com/@grazibonizi/the-best-branching-model-to-work-with-git-4008a8098e6a)
             * [Thoughbot Guides](https://github.com/thoughtbot/guides)
             * [Don't mess with master: Working with branches](https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/)
+        * Reflections: If you're anxious about preparing for your first coding job, try to refocus that energy onto what's in front of you at the moment (finishing your projects, practicing for interviews, improving your git version constrol skills). The apps you will be working on in your first job will likely be more vast than anything you previously worked on while studying so be patient with yourself while you get familiar with the code base. If anything, contributing to open source projects can help you prepare for jumping into a new team. Jump into an existing app and try to understand how everything fits together so that you can better understand the context of raise issues. 
 
    * Day 2 (draft; will update at the end of the day)
 
