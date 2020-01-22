@@ -34,9 +34,29 @@ tried to document work flow to help refine the onboarding process for future dev
         * Preplanning for next sprint: From tomorrow, a new two week sprint begins. :party: 
         * Reviewed design guide for clean code
         * Walked through objects and properties in the User model in prep for the next sprint
-        * :relaxed: Reflections: It was a day full of meetings, but all super helpful in providing context on the product, where we've been and where we are headed. 
+        * :relaxed: Reflections: Today, I particpated in several super helpful in providing context on the product, where we've been and where we are headed. 
 
-    * Day 3
+    * Day 3 (draft to be updated by end of day)
+        * Retro (reflecting on the last sprint): Following the conclusion of each sprint, the team 
+        identifies and discusses: 
+            * What worked? 
+            * What could have been improved? 
+            * What didn't work? 
+            * Actions
+
+        * Feature flags: (define here)
+            * unit testing
+        * Discuss which items to push to staging
+        * Miro for diagrams
+        * Next sprint! 
+            * CRUD contact details writable to API
+            * Complete accessibility course
+            * Designing certain fields for mobile first vs qwerty
+            * End goal: first iteration of contact details page working on staging, 
+            with feature flag available for a demo. "As a customer, I can add a phone number."
+        * Resources
+            * https://classroom.udacity.com/courses/ud891
+        * Reflections
 
     * Day 4
 
