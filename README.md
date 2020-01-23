@@ -5,10 +5,10 @@ completing coding bootcamp. I hope that this journal will help me chart my profe
 
 * Week 1-2
 
-The past two weeks, I've been getting set up in my new role as a junior developer 
-including getting access to online systems, meeting colleagues in various departments 
-to better understand the business model and took part in a user feedback session which 
-helped to understand the user's needs. I've been reviewing the code base for the main product 
+Over the past two weeks, I've been getting set up in my new role as a junior developer 
+including gaining access to online systems and meeting colleagues in various departments 
+to better understand the business mode. I observed a user feedback session which 
+helped me to understand the users' needs. I've been reviewing the code base for the main product 
 that is in development - a tool to help users make payments and book home repairs. I've also 
 tried to document work flow to help refine the onboarding process for future devs on my team. 
 
