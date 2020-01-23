@@ -1,8 +1,7 @@
 # Junior Dev Journal :notebook: 
 
-_The purpose of this journal is to share my first days/weeks as a developer on a team after 
-completing a coding bootcamp. I hope that this journal will help others that are currently on 
-or considering a similar path understand what lies ahead. Previously, I was a freelancer working on smaller scale projects mostly on my own. I also want to use this journal to track my professional growth._
+_The purpose of this journal is to document my first month as a developer on a digital after 
+completing coding bootcamp. I hope that this journal will help me chart my professional growth and help others that are currently on or considering a similar path understand what lies ahead._
 
 * Week 1-2
 
