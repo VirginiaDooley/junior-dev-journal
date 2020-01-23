@@ -35,26 +35,38 @@ tried to document work flow to help refine the onboarding process for future dev
         * Walked through objects and properties in the User model in prep for the next sprint
         * :relaxed: Reflections: Today, I particpated in several meetings which helped in provide deeper context on the history and future direction of the product. 
 
-    * Day 3 (draft to be updated by end of day)
+    * Day 3
         * Retro (reflecting on the last sprint): Following the conclusion of each sprint, the team 
-        identifies and discusses: 
+        identified and discussed: 
             * What worked? 
             * What could have been improved? 
             * What didn't work? 
             * Actions
-
-        * Feature flags: (define here)
-            * unit testing
-        * Discuss which items to push to staging
-        * Miro for diagrams
+            * Discussed which items to push to staging
+        * New concepts, terms and tools
+            * Feature flags (or toggle): _A feature toggle (also feature switch, feature flag, feature flipper, conditional feature, etc.) is a technique in software development that attempts to provide an alternative to maintaining multiple source-code branches (known as feature branches), such that a feature can be tested even before it is completed and ready for release. Feature toggle is used to hide, enable or disable the feature during run time. For example, during the development process, a developer can enable the feature for testing and disable it for other users._
+            * Method stub: _A method stub or simply stub[1] in software development is a piece of code used to stand in for some other programming functionality. A stub may simulate the behavior of existing code (such as a procedure on a remote machine, such methods are often called mocks) or be a temporary substitute for yet-to-be-developed code. Stubs are therefore most useful in porting, distributed computing as well as general software development and testing._
+            * VCR and cassettes: _Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests._
+            * Webmock: _Library for stubbing and setting expectations on HTTP requests in Ruby._
+            * Heredoc: _A heredoc is a way to define a multiline string, while maintaining the original indentation & formatting._
+            * Her gem: _Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.-
+            * Miro: _collaborative whiteboard platform for distributed teams_
         * Next sprint! 
             * CRUD contact details writable to API
             * Complete accessibility course
             * Designing certain fields for mobile first vs qwerty
             * End goal: first iteration of contact details page working on staging, 
             with feature flag available for a demo. "As a customer, I can add a phone number."
+        * Unblocking a testing issue: A security issue has caused a connection issue with tests using VCR; it was decided that we should turn off VCR for this test and stub a new test to unblock the related work. 
         * Resources
-            * https://classroom.udacity.com/courses/ud891
+            * [Accessibility from Google](https://classroom.udacity.com/courses/ud891)
+            * [More on feature toggles](https://en.wikipedia.org/wiki/Feature_toggle)
+            * [Stubbing](https://en.wikipedia.org/wiki/Method_stub)
+            * [VCR gem](https://github.com/vcr/vcr)
+            * [Webmock](https://github.com/bblimke/webmock)
+            * [Heredoc](https://www.rubyguides.com/2018/11/ruby-heredoc/)
+            * [Her gem](https://github.com/remi/her)
+            * [Miro](www.miro.com/)
         * Reflections
 
     * Day 4
