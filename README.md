@@ -29,11 +29,11 @@ tried to document work flow to help refine the onboarding process for future dev
         * :relaxed: Reflections: Previously, I was a freelancer working on smaller scale projects mostly on my own so looking at this large scale app is honestly very intimidating. If you're anxious about preparing for your first coding job, try to refocus that energy onto what's in front of you at the moment (finishing your projects, practicing for interviews, improving your git version constrol skills). The apps you will be working on in your first job will likely be more vast than anything you previously worked on while studying so be patient with yourself while you get familiar with the code base. If anything, contributing to open source projects can help you prepare for jumping into a new team. Jump into an existing app and try to understand how everything fits together so that you can better understand the context of raise issues. 
 
    * Day 2
-        * Review the data model diagram: we walked through the flow of data with visual aids and identified changes that need to made in the architecture. 
-        * Preplanning for next sprint: From tomorrow, a new two week sprint begins. :party: 
-        * Reviewed design guide for clean code
+        * Review the data model diagram: We walked through the flow of data with visual aids and identified changes that need to made in the architecture. 
+        * Pre-planning for next sprint: From tomorrow, a new 2 week sprint begins. :party: 
+        * Reviewed design guide
         * Walked through objects and properties in the User model in prep for the next sprint
-        * :relaxed: Reflections: Today, I particpated in several super helpful in providing context on the product, where we've been and where we are headed. 
+        * :relaxed: Reflections: Today, I particpated in several meetings which helped in provide deeper context on the history and future direction of the product. 
 
     * Day 3 (draft to be updated by end of day)
         * Retro (reflecting on the last sprint): Following the conclusion of each sprint, the team 
