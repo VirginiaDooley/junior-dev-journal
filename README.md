@@ -20,13 +20,13 @@ tried to document work flow to help refine the onboarding process for future dev
         * Review Trello for outstanding issues and work with other devs to fix a bug: 
             * The codebase is massive and still largely unfamiliar to me, so we use the console to identify 
             the objects and arrays and related data that we are working with. 
-            *With a big hint from a senior dev, we solve the issue and then refactor to minimise the code. 
+            *With a big hint from a senior dev, we solved the issue and then refactor to minimise the code. 
         * Research and practice version control with git rebasing
         * Resources: 
             * [Working with Git](https://medium.com/@grazibonizi/the-best-branching-model-to-work-with-git-4008a8098e6a)
             * [Thoughbot Guides](https://github.com/thoughtbot/guides)
             * [Don't mess with master: Working with branches](https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/)
-        * :relaxed: Reflections: If you're anxious about preparing for your first coding job, try to refocus that energy onto what's in front of you at the moment (finishing your projects, practicing for interviews, improving your git version constrol skills). The apps you will be working on in your first job will likely be more vast than anything you previously worked on while studying so be patient with yourself while you get familiar with the code base. If anything, contributing to open source projects can help you prepare for jumping into a new team. Jump into an existing app and try to understand how everything fits together so that you can better understand the context of raise issues. 
+        * :relaxed: Reflections: Previously, I was a freelancer working on smaller scale projects mostly on my own so looking at this large scale app is honestly very intimidating. If you're anxious about preparing for your first coding job, try to refocus that energy onto what's in front of you at the moment (finishing your projects, practicing for interviews, improving your git version constrol skills). The apps you will be working on in your first job will likely be more vast than anything you previously worked on while studying so be patient with yourself while you get familiar with the code base. If anything, contributing to open source projects can help you prepare for jumping into a new team. Jump into an existing app and try to understand how everything fits together so that you can better understand the context of raise issues. 
 
    * Day 2
         * Review the data model diagram: we walked through the flow of data with visual aids and identified changes that need to made in the architecture. 
