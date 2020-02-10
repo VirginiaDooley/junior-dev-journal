@@ -80,7 +80,7 @@ By Week 4, I felt I had an understanding of the large chunks of the code base as
 
 Week 6
 
-I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so that will take priority this week. 
+I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so that will take priority this week. Other than that, writing more and more tests...
 * Resources
     * [Stashing with Git](https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes/19003191)
 
