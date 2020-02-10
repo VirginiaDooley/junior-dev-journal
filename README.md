@@ -1,6 +1,6 @@
 # Junior Dev Journal :notebook: 
 
-_The purpose of this journal is to document my first month as a developer on a digital team after 
+_The purpose of this journal is to document my first weeks as a developer on a digital team after 
 completing coding bootcamp. I hope that this journal will help me chart my professional growth and help others that are currently on or considering a similar path understand what lies ahead._
 
 * Week 1-2
@@ -69,18 +69,19 @@ tried to document work flow to help refine the onboarding process for future dev
             * [Miro](www.miro.com/)
         * Reflections
 
-    * Day 4
+* Week 4-5
 
-    * Day 5
+By Week 4, I felt I had an understanding of the large chunks of the code base as well as the tickets that needed to be completed and the workflow to complete them. I started pairing with another junior developer on a more regular basis and we reached out to senior devs as needed. During this time, I used a prototype as a guide for implementing a new models, views and controllers, injecting javascript where needed. I also worked on building out Rspec and capybara tests for the controller and new features we had built. I still find TDD difficult but will continue to try to lead with tests going forward. Once the basic work was complete and functioning, we worked with a senior dev to refactor our code for clarity and performance. In the end, we didn't complete the work required for the sprint, mostly due to having to implement a new front end style. There were several learning curves, but as a result, I expect progress to much faster next sprint.  
+* Resources
+    * [Ruby strings cheatsheet](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
+    * [Importing JS into a HAML file](https://stackoverflow.com/questions/11455551/how-do-import-a-javascript-file-into-a-haml-view)
+    * [Page specific JS](https://brandonhilkert.com/blog/page-specific-javascript-in-rails/)
+    * [Rspec cheatsheet](https://devhints.io/rspec)
 
-* Week 4
+Week 6
 
-    * Day 1 
+I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so that will take priority this week. 
+* Resources
+    * [Stashing with Git](https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes/19003191)
 
-    * Day 2
-
-    * Day 3
-
-    * Day 4
-
-    * Day 5
+    
