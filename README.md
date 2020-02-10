@@ -71,19 +71,19 @@ tried to document work flow to help refine the onboarding process for future dev
 
 * Week 4-5
 
-By Week 4, I felt I had an understanding of the large chunks of the code base as well as the tickets that needed to be completed and the workflow to complete them. I started pairing with another junior developer on a more regular basis and we reached out to senior devs as needed. During this time, I used a prototype as a guide for implementing a new models, views and controllers, injecting javascript where needed. I also worked on building out Rspec and capybara tests for the controller and new features we had built. I still find TDD difficult but will continue to try to lead with tests going forward. Once the basic work was complete and functioning, we worked with a senior dev to refactor our code for clarity and performance. In the end, we didn't complete the work required for the sprint, mostly due to having to implement a new front end style. There were several learning curves, but as a result, I expect progress to much faster next sprint.  
-* Resources
-    * [Ruby strings cheatsheet](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
-    * [Importing JS into a HAML file](https://stackoverflow.com/questions/11455551/how-do-import-a-javascript-file-into-a-haml-view)
-    * [Page specific JS](https://brandonhilkert.com/blog/page-specific-javascript-in-rails/)
-    * [Rspec cheatsheet](https://devhints.io/rspec)
-* :metal: Reflections: The pace is picking up and I like it! 
+    By Week 4, I felt I had an understanding of the large chunks of the code base as well as the tickets that needed to be completed and the workflow to complete them. I started pairing with another junior developer on a more regular basis and we reached out to senior devs as needed. During this time, I used a prototype as a guide for implementing a new models, views and controllers, injecting javascript where needed. I also worked on building out Rspec and capybara tests for the controller and new features we had built. I still find TDD difficult but will continue to try to lead with tests going forward. Once the basic work was complete and functioning, we worked with a senior dev to refactor our code for clarity and performance. In the end, we didn't complete the work required for the sprint, mostly due to having to implement a new front end style. There were several learning curves, but as a result, I expect progress to much faster next sprint.  
+    * Resources
+        * [Ruby strings cheatsheet](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
+        * [Importing JS into a HAML file](https://stackoverflow.com/questions/11455551/how-do-import-a-javascript-file-into-a-haml-view)
+        * [Page specific JS](https://brandonhilkert.com/blog/page-specific-javascript-in-rails/)
+        * [Rspec cheatsheet](https://devhints.io/rspec)
+    * :metal: Reflections: The pace is picking up and I like it! 
 
 * Week 6
 
-I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so that will take priority this week. Other than that, writing more and more tests...
-* Resources
-    * [Stashing with Git](https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes/19003191)
-* :thinking: Reflections: 
+    I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so that will take priority this week. Other than that, writing more and more tests...
+    * Resources
+        * [Stashing with Git](https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes/19003191)
+    * :thinking: Reflections: 
 
     
