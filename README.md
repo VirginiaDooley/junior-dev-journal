@@ -67,7 +67,7 @@ tried to document work flow to help refine the onboarding process for future dev
             * [Heredoc](https://www.rubyguides.com/2018/11/ruby-heredoc/)
             * [Her gem](https://github.com/remi/her)
             * [Miro](www.miro.com/)
-        * Reflections
+        * :open_hands: Reflections: A bit of info overload, but taking one day at a time. 
 
 * Week 4-5
 
@@ -77,11 +77,13 @@ By Week 4, I felt I had an understanding of the large chunks of the code base as
     * [Importing JS into a HAML file](https://stackoverflow.com/questions/11455551/how-do-import-a-javascript-file-into-a-haml-view)
     * [Page specific JS](https://brandonhilkert.com/blog/page-specific-javascript-in-rails/)
     * [Rspec cheatsheet](https://devhints.io/rspec)
+* :metal: Reflections: The pace is picking up and I like it! 
 
-Week 6
+* Week 6
 
 I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so that will take priority this week. Other than that, writing more and more tests...
 * Resources
     * [Stashing with Git](https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes/19003191)
+* :thinking: Reflections: 
 
     
