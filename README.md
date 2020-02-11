@@ -86,4 +86,8 @@ tried to document work flow to help refine the onboarding process for future dev
         * [Stashing with Git](https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes/19003191)
     * :thinking: Reflections: This feels like the right time to revisit my learning/professional development goals for the next 3, 6, 9 months. 
 
-    
+* Week 7
+
+    Half term holiday! One of my 2020 goals is to balance my brain with screen-free learning. 
+    * Resources
+        * [9 Books For Junior Developers In 2019](https://dev.to/stemmlerjs/9-books-for-junior-developers-in-2019-2d2)
