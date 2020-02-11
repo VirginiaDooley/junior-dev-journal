@@ -59,7 +59,6 @@ tried to document work flow to help refine the onboarding process for future dev
             with feature flag available for a demo. "As a customer, I can add a phone number."
         * Unblocking a testing issue: A security issue has caused a connection issue with tests using VCR; it was decided that we should turn off VCR for this test and stub a new test to unblock the related work. 
         * Resources
-            * [Accessibility from Google](https://classroom.udacity.com/courses/ud891)
             * [More on feature toggles](https://en.wikipedia.org/wiki/Feature_toggle)
             * [Stubbing](https://en.wikipedia.org/wiki/Method_stub)
             * [VCR gem](https://github.com/vcr/vcr)
@@ -81,9 +80,10 @@ tried to document work flow to help refine the onboarding process for future dev
 
 * Week 6
 
-    I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so that will take priority this week. Other than that, writing more and more tests...
+    I took on my first ticket solo but still don't feel comfortable with branching and committing the right way so leveling up on git workflow will take priority this week. Other than that, I'm reading up on accessibility and writing more and more tests...
     * Resources
+        * [Accessibility from Google](https://classroom.udacity.com/courses/ud891)
         * [Stashing with Git](https://stackoverflow.com/questions/19003009/how-to-recover-stashed-uncommitted-changes/19003191)
-    * :thinking: Reflections: 
+    * :thinking: Reflections: This feels like the right time to revisit my learning/professional development goals for the next 3, 6, 9 months. 
 
     
